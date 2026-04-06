@@ -22,6 +22,7 @@
 
 ## Tile
 ![Image](https://raw.githubusercontent.com/fti11/AI_Project_2026_01_3B/ede3c3f962b088a1a5a665ea044a30b596911985/Tile/00012-932784761.png)
+![Image](https://raw.githubusercontent.com/fti11/AI_Project_2026_01_3B/59c878011ae0064bf5110a11c0b08f78560ff4d6/CONTROLNET/Tile/tmp3bk4g80c.png)
 
 ## MLSD
 ![Image](https://raw.githubusercontent.com/fti11/AI_Project_2026_01_3B/ede3c3f962b088a1a5a665ea044a30b596911985/MLSD/tmpifktlrwz.png)
